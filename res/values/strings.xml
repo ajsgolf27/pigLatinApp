@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">pigLatin</string>
+    <string name="hello_world">Hello world!</string>
+    <color name="custom">#FFB6C1</color>
+    <string name="action_settings">Settings</string>
+    
+
+</resources>
